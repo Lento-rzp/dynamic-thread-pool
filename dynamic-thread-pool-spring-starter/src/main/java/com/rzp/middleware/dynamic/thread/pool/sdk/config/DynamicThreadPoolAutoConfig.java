@@ -4,6 +4,8 @@ package com.rzp.middleware.dynamic.thread.pool.sdk.config;
 
 public class DynamicThreadPoolAutoConfig {
 
-
+    public static void main(String[] args) {
+        System.out.println("你好..........");
+    }
 
 }
