@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>dynamic-thread-pool-spring-starter</module>
+        <module>dynamic-thread-pool-test</module>
     </modules>
 
     <properties>
