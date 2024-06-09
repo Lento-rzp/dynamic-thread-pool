@@ -11,6 +11,7 @@
     <modules>
         <module>dynamic-thread-pool-spring-starter</module>
         <module>dynamic-thread-pool-test</module>
+        <module>dynamic-thread-pool-admin</module>
     </modules>
 
     <properties>

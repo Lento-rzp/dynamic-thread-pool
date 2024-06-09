@@ -126,8 +126,4 @@ public class DynamicThreadPoolAutoProperties {
     public void setKeepAlive(boolean keepAlive) {
         this.keepAlive = keepAlive;
     }
-
-
-
-
 }
